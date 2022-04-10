@@ -21,9 +21,10 @@ As opção são:
  - burning 
  - <img src= "./gif/burning.gif"  width="300" height="300" />
  - A julia existe infinita tipo de entrada, aqui vai alguns  [exemplos](https://foul-iridium-45f.notion.site/Julia-Exemplo-8858fb50e7db4cada188e02d2eef8fb8).  
- - <img src= "./gif/julia1.gif"  width="300" height="300" />
- <img src= "./gif/julia2.gif"  width="300" height="300" />
- <img src= "./gif/julia3.gif"  width="300" height="300" />
+ - <img src= "./gif/julia1.gif"  width="300" height="300"/>
+ <img src= "./gif/julia2.gif"  width="300" height="300"/>
+ <img src= "./gif/julia3.gif"  width="300" height="300"/>
+ 
 ## Navegação 
 
  - Utilizes as setas para navegar;
