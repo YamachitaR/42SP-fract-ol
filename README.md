@@ -3,7 +3,10 @@
 
 ## O que é esse projeto?
 
-Esse projeto é proposto pela Escola 42SP, que tem como objetivo de construir fractal de mandebrold, julia e burning ship. Além disso, de aprender a utilizar a biblioteca minilibx. 
+Esse projeto é proposto pela Escola 42SP, que tem como objetivo de construir fractal de mandebrold, julia e burning ship. Além disso, de aprender a utilizar a biblioteca minilibx, liguagem C entre outros. 
+
+
+Os códigos feitos por mim tem o cabeçalho, lembrando que aprendizado ocorrem em comunidade, aproveito para agradecer a todos os cadetes da 42SP, principalmente  [rkenji-s](https://github.com/RKS0205), [lemarque]( https://github.com/leticia-marques )  e [vcastilhc](https://github.com/vcastilh ). Se você precisa de ajuda para fazer esse projeto pode me chamar. 
 
 
 ## Como executar?
@@ -22,9 +25,11 @@ As opção são:
   
  - burning 
 
- - <img src= "./gif/burning.gif"  width="300" height="300" />
+  <img src= "./gif/burning.gif"  width="300" height="300" />
+  
  - A julia existe infinita tipo de entrada, aqui vai alguns  [exemplos](https://foul-iridium-45f.notion.site/Julia-Exemplo-8858fb50e7db4cada188e02d2eef8fb8).  
- - <img src= "./gif/julia1.gif"  width="300" height="300"/>
+  
+ <img src= "./gif/julia1.gif"  width="300" height="300"/>
  <img src= "./gif/julia2.gif"  width="300" height="300"/>
  <img src= "./gif/julia3.gif"  width="300" height="300"/>
  
