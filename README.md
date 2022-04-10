@@ -17,8 +17,11 @@ Esse projeto é proposto pela Escola 42SP, que tem como objetivo de construir fr
 
 As opção são:
  - mandelbrot 
- - <img src= "./gif/mandelbrot.gif"  width="300" height="300" />
+ 
+  <img src= "./gif/mandelbrot.gif"  width="300" height="300" />
+  
  - burning 
+
  - <img src= "./gif/burning.gif"  width="300" height="300" />
  - A julia existe infinita tipo de entrada, aqui vai alguns  [exemplos](https://foul-iridium-45f.notion.site/Julia-Exemplo-8858fb50e7db4cada188e02d2eef8fb8).  
  - <img src= "./gif/julia1.gif"  width="300" height="300"/>
