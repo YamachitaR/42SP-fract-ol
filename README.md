@@ -1,13 +1,42 @@
-# 42SP:fract-ol
+# 42SP:fractal 
 
 
 ## O que é esse projeto?
 
-É um projeto sobre Fractal, onde é possivel criação gráfico de Fractal de mandebrold, julia e burning ship. 
+Esse projeto é proposto pela Escola 42SP, que tem como objetivo de construir fractal de mandebrold, julia e burning ship. Além disso, de aprender a utilizar a biblioteca minilibx. 
 
-## Como exercutar?
-eeee
+
+## Como executar?
+
+**OBS:**  Não sei se funciona bem sistema operacional diferente de  linux.
 1. Faça o 'git clone';
-2. Se o sistema operacional for diferente de linux não sei se vai rodar por causa da biblioteca. Verifique se você tem esses pacotes instalado no computador https://github.com/42Paris/minilibx-linux 
+2. Instale as biblioteca necessária que esta descrito no  [README.md do repositório da biblioteca minilibx](https://github.com/42Paris/minilibx-linux)
+3.  Entre na pasta pelo terminal; 
+4. No terminal:  make
+5.  No terminal: ./fractol  <opção>
 
-hi heelllo 
+As opção são:
+ - mandelbrot 
+ - burning 
+ - A julia existe infinita tipo de entrada, aqui vai alguns  [exemplos](https://foul-iridium-45f.notion.site/Julia-Exemplo-8858fb50e7db4cada188e02d2eef8fb8).  
+
+## Navegação 
+
+ - Utilizes as setas para navegar;
+ - Utilizar rolagem do mouse para fazer o zoom;
+ - Utiliza as teclas A, S e D para mudar a cor;
+ -  Utilize ESC ou click no x da janela para fechar o programa.
+
+
+## Melhoria futura 
+
+ - Ter mais opção de cores;
+ - Melhorar o zoom, deixar o zoom que acompanha o mouse;
+ - Habilitar as teclas "+" e "-" para zoom;
+ - Conseguir mudar o fractal sem necessidade de fechar o programa;
+ - Adicionar mais fractais;
+ - Utilizar programação paralelo. 
+
+
+
+
